@@ -1,7 +1,8 @@
 """No, Pete"""
 x = 1
-
+#why no Pete ?
 while x ==1:
 	print("Pete is a goober")
+
 
 
