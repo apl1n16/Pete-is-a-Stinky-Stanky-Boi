@@ -1,6 +1,7 @@
 """No, Pete"""
 x = 1
 #why no Pete ?
+#Aight bizatch
 while x ==1:
 	print("Pete is a goober")
 
